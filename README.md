@@ -90,18 +90,18 @@ I'm an engineering student who learns best by building. I care less about memori
 
 ## `~/stats`
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucidfoxx&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&icon_color=14B8A6&text_color=9FB3C8&ring_color=22D3EE&count_private=false" alt="GitHub stats for lucidfoxx" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidfoxx&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&text_color=9FB3C8" alt="Most used languages for lucidfoxx" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidfoxx&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&text_color=9FB3C8" alt="Most used languages for lucidfoxx" height="170" /> -->
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=lucidfoxx&hide_border=true&background=0A0F1C&ring=22D3EE&fire=14B8A6&currStreakNum=E6F1FF&currStreakLabel=22D3EE&sideNums=E6F1FF&sideLabels=9FB3C8&dates=64748B" alt="GitHub contribution streak for lucidfoxx" />
+<!-- <img src="https://streak-stats.demolab.com/?user=lucidfoxx&hide_border=true&background=0A0F1C&ring=22D3EE&fire=14B8A6&currStreakNum=E6F1FF&currStreakLabel=22D3EE&sideNums=E6F1FF&sideLabels=9FB3C8&dates=64748B" alt="GitHub contribution streak for lucidfoxx" />
 
 </div>
 
-<br/>
+<br/> -->
 
 ## `~/connect`
 
