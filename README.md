@@ -88,7 +88,6 @@ I'm an engineering student who learns best by building. I care less about memori
 
 <br/>
 
-## `~/stats`
 
 <!-- <div align="center">
 
